@@ -1,1 +1,1 @@
-# 3-tier-app-deployment-terraform
+# three-tier-app-deployent-terraform
